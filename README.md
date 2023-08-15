@@ -1,7 +1,7 @@
 ## Project Title
 The Central Bank of Nigeria's Website Clone
 
-# UBC
+# CBN
     This is a landing page design for The Central Bank of Nigeria. 
     The idea is to recreate the original design and test my ability to clone it.
     It's a simple landing page design and sub-pages have not been coded because the aim is simply on the landing page 
